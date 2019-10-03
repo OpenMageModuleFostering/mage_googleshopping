@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Mage_GoogleShopping",
+    "name": "OpenMageModuleFostering\/Mage_GoogleShopping",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Google Content API for Shopping",
     "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+        {
+            "name": "Magento Core Team",
+            "email": "core@magentocommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
